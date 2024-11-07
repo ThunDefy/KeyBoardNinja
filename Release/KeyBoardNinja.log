@@ -1,0 +1,9 @@
+﻿  KeyBoardNinja_new.cpp
+e:\учеба\2 семак\разработка по\proj\keyboardninja\keyboardninja\helper.h(36): warning C4305: инициализация: усечение из "double" в "float"
+e:\учеба\2 семак\разработка по\proj\keyboardninja\keyboardninja\keyboardninja_new.cpp(82): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+  Создание кода
+  0 of 393 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  KeyBoardNinja.vcxproj -> E:\Учеба\2 Семак\Разработка ПО\Proj\KeyBoardNinja\KeyBoardNinja\x64\Release\KeyBoardNinja.exe
